@@ -6,11 +6,7 @@
 
 <body>
 
-<?php
-
-
-
-?>
+Сегодня <?php echo date('d.m.y');?>
 
 </body>
 
