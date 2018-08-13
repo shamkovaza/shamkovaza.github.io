@@ -1,0 +1,16 @@
+.body{
+  background-color: #c0c0c0;
+  text-align: center;
+}
+
+.text{
+  text-align: right;
+  background-color: #FAEBD7;
+  margin-left: 650px;
+  border: 2px solid black;
+}
+
+.map{
+  background-color: #3B444B;
+  color: 	#9966CC;
+}
