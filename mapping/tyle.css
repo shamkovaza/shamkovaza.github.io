@@ -4,10 +4,11 @@
 }
 
 .text{
-  text-align: right;
-  background-color: #FAEBD7;
-  margin-left: 650px;
+  text-align: center;
+  background-color: #808080;
   border: 2px solid black;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .map{
